@@ -12,4 +12,7 @@ counter2 = []
 for time in list1:
     if time / 2:
         counter1 = counter1 + time
+    if time /! 2:
+        counter2 + counter2 = time
 print(counter1)
+print(counter2)
